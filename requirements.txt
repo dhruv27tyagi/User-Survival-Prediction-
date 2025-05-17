@@ -1,0 +1,7 @@
+pandas 
+numpy 
+setuptools
+scikit-learn
+imbalanced-learn
+redis
+psycopg2-binary
