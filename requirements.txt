@@ -5,3 +5,6 @@ scikit-learn
 imbalanced-learn
 redis
 psycopg2-binary
+flask
+alibi-detect
+prometheus_client
